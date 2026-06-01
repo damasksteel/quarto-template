@@ -1,3 +1,63 @@
 ---
 title: "Exercise 2. Markdown basics"
+
 ---
+
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+#### Heading 4
+
+*****
+
+## Subheading
+
+**Sentence in bold text**
+
+*This sentence is in italics*
+
+The following is a list.
+
++ Analysis plan
++ Randomisation template
+
+1. Randomisation checks
+2. DMC report
+
+> Happy life
+
+Run `mydofile.do`
+
+Run ```sum myvar, detail```
+
+This is a 
+|   |Treatment | Control|
+| - |   -      |     -  |   
+|Age|  59      |      62|
+
+:::{.callout-note}
+This is a callout block
+:::
+
+### Subheading about 
+::: {.column}
+**South Cloisters**, University of Exeter, St Luke's Campus, Heavitree Road, Exeter EX1 2LU
+:::
+
+[Visit the University of Exeter website](https://www.exeter.ac.uk){target="_blank"}
+
+### Mathematical notation
+
+
+
+
+
+
+
+
+
+
+
